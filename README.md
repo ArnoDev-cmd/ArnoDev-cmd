@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Arno 😄
+Here is some info about me:
+- 💬 I love python (mostly Discord bots https://top.gg/bot/718769183885754380)
+- 👯 I’m looking to collaborate on nice and cool open source projects
+- 📫 Reach me via discord Arno™#2572 or https://discord.gg/xc6xGCY
+Anyway that's it for now xD
 
 <!--
 **ArnoDev-cmd/ArnoDev-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
