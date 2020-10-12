@@ -2,7 +2,7 @@
 Here is some info about me:
 - 💬 I love python (mostly Discord bots https://top.gg/bot/718769183885754380)
 - 👯 I’m looking to collaborate on nice and cool open source projects
-- 📫 Reach me via discord Arno™#2572 or https://discord.gg/xc6xGCY
+- 📫 Reach me via discord ArnoDev#2572 or https://discord.gg/xc6xGCY
 
 Anyway that's it for now xD
 
