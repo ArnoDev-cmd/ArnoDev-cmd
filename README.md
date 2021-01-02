@@ -1,6 +1,6 @@
 ### Hello, I'm Arno 😄
 Here is some info about me:
-- 💬 I love python (mostly Discord bots https://top.gg/bot/718769183885754380)
+- 💬 I love python (mostly Discord bots [Shiba](https://top.gg/bot/718769183885754380))
 - 👯 I’m looking to collaborate on nice and cool open source projects
 - 📫 Reach me via discord -ΛstroDev-#6969 or https://discord.gg/xc6xGCY
 
